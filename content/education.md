@@ -1,6 +1,6 @@
 ---
 title: Education
-date: 2023-10-24
+date: 2024-10-24
 hide_date: true
 reading_time: false
 ---
@@ -42,6 +42,6 @@ As well as obtain not one, not two, but three diplomas upon graduating:
 I'm proud to say that, I do have multiple industry certifications, such as:
 
 - CS50P Certificate of Completion
-- PCEP Certified Beginner Python Programmer
+- PCEP Certified Entry-level Python Programmer
 
 And hopefully, more to come!

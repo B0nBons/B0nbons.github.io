@@ -1,16 +1,16 @@
 ---
 # Display name
-title: B0nbons
+title: बानी संधू
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Baani Sandhu'
 
 # Full name (for SEO)
 first_name: Baani
 last_name: Sandhu
 
 # Status emoji
-status:
+status: With a cup of java at hand..
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -32,12 +32,13 @@ bio: My interests include making coffee, cute cats, and Minecraft.
 profiles:
   - icon: at-symbol
     url: 'mailto:baani23sandhu@gmail.com'
-    label: E-mail Me
+    label: email
 
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
-    label: Download my resume
+    label: resume
+
 
 
 # Highlight the author in author lists? (true/false)

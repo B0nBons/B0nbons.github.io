@@ -1,6 +1,6 @@
 ---
-title: I love cats
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
+title: Tuxedo
+summary: Do you like this cat?
 date: 2023-10-25
 authors:
   - admin
